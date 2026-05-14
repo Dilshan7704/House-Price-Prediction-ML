@@ -49,7 +49,7 @@ CALIFORNIA-HOUSING-PRICE-PREDICTION/
 │   ├── x_train.pkl
 │   ├── x_test.pkl
 │   ├── y_train.pkl
-│   ├── y_test.pk;
+│   ├── y_test.pkl
 │   └── best_model.pkl
 │
 ├── 📁 src/
